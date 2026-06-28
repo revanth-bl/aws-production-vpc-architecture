@@ -131,12 +131,6 @@ Outbound Internet Access (Private Instances)
 
 ---
 
-## Screenshots
-
-> Add AWS console screenshots inside `/architecture/screenshots`
-
----
-
 ## Author
 
 Built as part of a cloud engineering and DevOps learning journey focused on real-world production infrastructure design.
